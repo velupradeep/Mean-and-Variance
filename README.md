@@ -1,7 +1,7 @@
-## NAME: PRADEEP V
-## REG NO:212223240119
+                                                   Name:Pradeep V
+                                                   Reg No:212223240119
 
-#  Mean and variance of a discrete  distribution
+# EX-1:Mean and variance of a discrete  distribution
 
 
 # Aim : 
